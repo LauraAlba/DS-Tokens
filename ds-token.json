@@ -5648,7 +5648,7 @@
         "type": "color"
       },
       "on-alert": {
-        "value": "$ref.text.white.opacity100",
+        "value": "$ref.text.black.opacity87",
         "type": "color"
       },
       "info": {
@@ -5656,7 +5656,7 @@
         "type": "color"
       },
       "on-info": {
-        "value": "$ref.text.white.opacity100",
+        "value": "$ref.text.black.opacity87",
         "type": "color"
       },
       "error": {
@@ -5664,7 +5664,7 @@
         "type": "color"
       },
       "on-error": {
-        "value": "$ref.text.white.opacity100",
+        "value": "$ref.text.black.opacity87",
         "type": "color"
       },
       "background": {
@@ -6004,7 +6004,7 @@
             "type": "color"
           },
           "error40": {
-            "value": "#dd2727",
+            "value": "#F3B3B9",
             "type": "color"
           },
           "error30": {
@@ -6096,7 +6096,7 @@
             "type": "color"
           },
           "alert40": {
-            "value": "#F8A127",
+            "value": "#F3D6B3",
             "type": "color"
           },
           "alert30": {
@@ -6142,7 +6142,7 @@
             "type": "color"
           },
           "info40": {
-            "value": "#1C8BF6",
+            "value": "#C9E9FF",
             "type": "color"
           },
           "info30": {
